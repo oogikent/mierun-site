@@ -1,6 +1,6 @@
-# 家計簿 -ミエルン- サポートサイト
+# 簡単家計簿 -みえるん- サポートサイト
 
-アプリ「家計簿 -ミエルン-」のサポート・プライバシーポリシー・利用規約。
+アプリ「簡単家計簿 -みえるん-」のサポート・プライバシーポリシー・利用規約。
 
 - サポート: https://oogikent.github.io/mierun-site/
 - プライバシーポリシー: https://oogikent.github.io/mierun-site/privacy.html
